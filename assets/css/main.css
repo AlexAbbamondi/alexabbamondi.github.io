@@ -120,6 +120,8 @@ input, select, textarea {
 
 		a img {
 			border: 0;
+			height: 275px;
+			width: 100px;
 		}
 
 	b, strong {
